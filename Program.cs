@@ -26,7 +26,8 @@ namespace ConsoleApp2
                     // all characters searched
                     for (int i = 0; i < size; i++)
                     {
-                        // if he is equal he is incrementing //
+                        // if he is equal he is incrementing
+                        // dhfkefhoihdeoiwehf
                         // the counter associated with the character
                         if (c[0] == characters[i])
                             repetition[i]++;
